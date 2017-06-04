@@ -1,5 +1,5 @@
 {
-	"name": "lagan/template-fileselect",
+	"name": "lagan/template-optionselect",
 	"type": "lagan-template",
 	"description": "Template to use a fixed array of options with the Lagan String property.",
 	"keywords": ["lagan","optionselect","property","template"],
